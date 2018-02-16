@@ -19,3 +19,4 @@ Finished in 0.000870s, 1149.4253 runs/s, 1149.4253 assertions/s.
 Links
 
 https://github.com/seattlerb/minitest
+https://stackoverflow.com/questions/9331259/unit-testing-why-is-the-expected-argument-always-first-in-equality-tests
